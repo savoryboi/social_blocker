@@ -10,6 +10,7 @@ const defineCss = () => {
         img {
             width: 40%; 
             height: auto;
+            border-radius: 15px;
         }
 
         .content {
